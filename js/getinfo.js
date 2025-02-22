@@ -10,3 +10,6 @@ function getIP() {
         IP.innerText = "IP: " + data.ip
     })
 }
+function getLocation() {
+    location.innerText = "Location: " + navigator.geolocation
+}
