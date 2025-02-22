@@ -4,6 +4,6 @@
 body {
     background-color: black;
 }
-div, h1, h2 {
+div, h1, h2, p {
     color: green;
 }
