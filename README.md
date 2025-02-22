@@ -14,3 +14,5 @@ Displays browser information in a simple, digestible format.
 - Device posture (experimental feature)
 
 - Location (must consent to viewing it, will not show automatically)
+
+- Touch points (pretty much just how many fingers you can use on your device at once)
